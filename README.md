@@ -1,6 +1,6 @@
 # 🎯 Segmentation et Clustering de Clients avec Python
 
-## Ce projet propose une approche complète de la **segmentation de clientèle** à l’aide de techniques d’**apprentissage non supervisé**. L’objectif est d’identifier des groupes de clients distincts à partir de données comportementales et démographiques, afin d’optimiser les stratégies marketing.
+Ce projet propose une approche complète de la **segmentation de clientèle** à l’aide de techniques d’**apprentissage non supervisé**. L’objectif est d’identifier des groupes de clients distincts à partir de données comportementales et démographiques, afin d’optimiser les stratégies marketing.
 
 ## 📌 Objectifs
 
