@@ -2,6 +2,8 @@
 
 Ce projet propose une approche complète de la **segmentation de clientèle** à l’aide de techniques d’**apprentissage non supervisé**. L’objectif est d’identifier des groupes de clients distincts à partir de données comportementales et démographiques, afin d’optimiser les stratégies marketing.
 
+🔗 **Lien vers le notebook** : [Notebook Segmentation de Clients](https://github.com/JWulfran/Machine-learning/blob/1d93e44b0a8a976b0d153ded55f44e49b20c8737/Python_Customer_segmentation_%26_clustering.ipynb)
+
 ## 📌 Objectifs
 
 - Segmenter la base de clients pour des actions marketing ciblées.
@@ -59,6 +61,8 @@ Ce projet propose une approche complète de la **segmentation de clientèle** à
 ---
 
 📂 _Ce projet fait partie de mon portfolio en science des données et apprentissage automatique. N'hésitez pas à le cloner, à l'explorer ou à proposer des améliorations !_
+
+---
 
 # 🏡 Prédiction de Prix Immobiliers avec Machine Learning (Python)
 
